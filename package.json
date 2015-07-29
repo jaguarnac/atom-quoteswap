@@ -1,13 +1,13 @@
 {
   "name": "atom-quoteswap",
   "main": "./lib/atom-quoteswap",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-quoteswap:toggle"
   },
-  "repository": "https://github.com/atom/atom-quoteswap",
+  "repository": "https://github.com/jaguarnac/atom-quoteswap",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
