@@ -18,4 +18,4 @@ module.exports = AtomQuoteswap =
   swap: ->
       if editor = atom.workspace.getActiveTextEditor()
           selection = editor.getSelectedText()
-          editor.insertText(tq.togglequotes(selection))
+          editor.insertText(tq.toggleQuotes(selection))
